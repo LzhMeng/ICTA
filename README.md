@@ -4,10 +4,10 @@
 [**Inter-Class Topology Alignment for Efficient Black-Box Substitute Attacks**](**/)<br/>
 [Lingzhuang Meng],
 [Mingwen Shao]*,
-[Wenjie Liu],
 [Yuanjian Qiao],
+[Wenjie Liu],
 <br/>
-_Underview |
+_Accepted by ECCV24 |
 [GitHub](https://github.com/LzhMeng/ICTA) | [Project page](https://)_
 
 ![Pipeline](assets/Pipeline.png)
@@ -65,7 +65,7 @@ Benefiting from the better alignment of the two models in the decision space, th
       title={Inter-Class Topology Alignment for Efficient Black-Box Substitute Attacks}, 
       author={Lingzhuang Meng and Mingwen Shao and Wenjie Liu and Yuanjian Qiao},
       year={2024},
-	booktitle = {European {Conference} on {Computer} {Vision}},
+      booktitle = {European {Conference} on {Computer} {Vision}},
 }
 ```
 
