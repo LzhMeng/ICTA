@@ -8,7 +8,7 @@
 [Wenjie Liu],
 <br/>
 _Accepted by ECCV24 |
-[GitHub](https://github.com/LzhMeng/ICTA) | [Project page](https://)_
+[GitHub](https://github.com/LzhMeng/ICTA) | [Project page](https://lzhmeng.github.io)_
 
 ![Pipeline](assets/Pipeline.png)
 ### Abstract ###
