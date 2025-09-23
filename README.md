@@ -63,8 +63,9 @@ Benefiting from the better alignment of the two models in the decision space, th
 ```
 @inproceedings{ICTA2024,
       title={Inter-Class Topology Alignment for Efficient Black-Box Substitute Attacks}, 
-      author={Lingzhuang Meng and Mingwen Shao and Wenjie Liu and Yuanjian Qiao},
+      author={Lingzhuang Meng and Mingwen Shao and Yuanjian Qiao and Wenjie Liu},
       year={2024},
+      pages={261--277},
       booktitle = {European {Conference} on {Computer} {Vision}},
 }
 ```
