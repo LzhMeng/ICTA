@@ -2,7 +2,7 @@
 *This project is the main code for ICTA.*
 
 [**Inter-Class Topology Alignment for Efficient Black-Box Substitute Attacks**](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05026.pdf)<br/>
-[Lingzhuang Meng](https://lzhmeng.github.io),
+[[Lingzhuang Meng](https://lzhmeng.github.io)],
 [Mingwen Shao]*,
 [Yuanjian Qiao],
 [Wenjie Liu],
