@@ -7,9 +7,9 @@
 [Yuanjian Qiao],
 [Wenjie Liu],
 <br/>
-Accepted by ECCV 2024
+_Accepted by ECCV 2024_
 <br/>
-[GitHub](https://github.com/LzhMeng/ICTA) | [Project page](https://lzhmeng.github.io)_
+[GitHub](https://github.com/LzhMeng/ICTA) | [Project page](https://lzhmeng.github.io)
 
 ![Pipeline](assets/Pipeline.png)
 ### Abstract ###
